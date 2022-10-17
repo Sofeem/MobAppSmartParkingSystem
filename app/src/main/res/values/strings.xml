@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="names">
+        <item>Please select a value</item>
+        <item>Parking_Spot_1</item>
+        <item>Parking_Spot_2</item>
+        <item>Parking_Spot_3</item>
+        <item>Parking_Spot_4</item>
+        <item>Parking_Spot_5</item>
+        <item>Parking_Spot_6</item>
+        <item>Parking_Spot_7</item>
+        <item>Parking_Spot_8</item>
+        <item>Parking_Spot_9</item>
+    </string-array>
+</resources>
